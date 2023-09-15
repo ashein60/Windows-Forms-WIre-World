@@ -1,0 +1,13 @@
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\bin\Release\WireWorld.exe.config
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\bin\Release\WireWorld.exe
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\bin\Release\WireWorld.pdb
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.csprojAssemblyReference.cache
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.Form1.resources
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.OpenWindow.resources
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.ResizeWindow.resources
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.Properties.Resources.resources
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.SaveAsWindow.resources
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.csproj.GenerateResource.cache
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.exe
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.pdb
+C:\Users\ashei\Desktop\Coding\C#\Programs\Current\WireWorld\WireWorld\obj\Release\WireWorld.HelpWindow.resources
